@@ -68,14 +68,14 @@ The model with the best overall performance was selected based on its predictive
 
 ## Google Colab Notebook
 
-[Click here to view the Google Colab Notebook](PASTE-YOUR-COLAB-LINK-HERE)
+[Click here to view the Google Colab Notebook](https://colab.research.google.com/drive/1_UrOvYDkuIk-3qCRdgRgguP87rXwaTbj?usp=sharing
+))
 
 ## Conclusion
 
 The project demonstrates how regression machine learning techniques can be used to predict medical insurance charges.
 
 Different regression models were trained and evaluated, and their performance was compared using multiple statistical evaluation metrics.
-https://colab.research.google.com/drive/1_UrOvYDkuIk-3qCRdgRgguP87rXwaTbj?usp=sharing
 
 #Regression PPT 
 https://canva.link/yvvoadmbnkh3uof
